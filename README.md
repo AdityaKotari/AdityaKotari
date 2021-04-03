@@ -1,7 +1,5 @@
 # Hello 👋
-I'm a sophomore at NIT Silchar. Feel free to reach out to me for whatever. 
-
-I think emojis are cringe but I do think it makes things more readable here. 
+I'm a sophomore at NIT Silchar. Feel free to reach out to me for whatever. I think emojis are cringe but I do think it makes things more readable here. 
 ### Here are some of my most interesting projects: 
 
 * [ADCLU](https://github.com/AdityaKotari/ADCLU): A Java/Maven Command Line Uitility that can currently do the following:

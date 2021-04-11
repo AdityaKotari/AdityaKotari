@@ -15,7 +15,7 @@ I'm a sophomore at NIT Silchar. Feel free to reach out to me for whatever. I thi
   
  ### Some other stuff: 
  
- * [Twitter wordcloud](https://github.com/AdityaKotari/twitter-wordcloud): An Express web-app that fetches tweets and visualizes the most common words in a word cloud. 
+ * [Twitter wordcloud](https://github.com/AdityaKotari/twitter-wordcloud): A practise project that displays the most frequent words used by someone on twitter along with sentiment analysis of their last few tweets. 
 ---
 You can find links to the (hosted)demos in the respective repos(apart from ADCLU). 
  

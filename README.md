@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a sophomore at NIT Silchar. Feel free to reach out to me for whatever. I think emojis are cringe but I do think it makes things more readable here. 
+I'm a sophomore at NIT Silchar. Feel free to reach out to me for whatever.
 ### Here are some of my most interesting projects: 
 
 * [ADCLU](https://github.com/AdityaKotari/ADCLU): A Java/Maven Command Line Uitility that can currently do the following:
@@ -17,7 +17,7 @@ I'm a sophomore at NIT Silchar. Feel free to reach out to me for whatever. I thi
  
  * [Twitter wordcloud](https://github.com/AdityaKotari/twitter-wordcloud): A practise project that displays the most frequent words used by someone on twitter along with sentiment analysis of their last few tweets. 
 ---
-You can find links to the (hosted)demos in the respective repos(apart from ADCLU). 
+You can find links to the (hosted)live demos in the respective repos(apart from ADCLU). 
  
  
 

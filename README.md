@@ -3,7 +3,7 @@ I'm a Computer Science undergrad at NIT Silchar. Feel free to reach out to me at
 ## Here are some of my most interesting projects: 
 
 * [vFit](https://github.com/AdityaKotari/vFit): A web app that combines an AI trainer along with real time video calls, in order to add a fun social game-ification aspect to exercise.
-  * 🏆 Won [First place](https://www.twitch.tv/videos/1052602309?t=5h17m35s) at [HackOn with Amazon](https://hackon-with-amazon.hackerearth.com/) 2021
+  * 🏆 Won [First place](https://www.linkedin.com/posts/activity-6809089524434644992-W8Ge) at [HackOn with Amazon](https://hackon-with-amazon.hackerearth.com/) 2021
 
 * [Flush](https://github.com/AdityaKotari/flush): A PWA that can be used to store and locate restroom locations and also provide an interface for property owners to lease out restrooms. Uses Google Maps API. 
   * 🏆 Won the ["Best Open Innovation Hack"](https://devfolio.co/submissions/flush-cde7) at HackNITR 2.0 

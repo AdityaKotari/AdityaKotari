@@ -11,9 +11,9 @@ I'm a Computer Science undergrad at NIT Silchar. Feel free to reach out to me at
 * [Trash Overflow](https://github.com/AdityaKotari/trash-overflow): Another PWA that acts as a platform to provide and request cleaning/sanitation/garbage related services.
   * 🏆 Won [2nd position](https://www.facebook.com/groups/186753138074295/permalink/4107101392706097/) at CSS Hacks 2021 
   
- ## Some other stuff: 
+ ## More casual stuff: 
  
- * [Twitter wordcloud](https://github.com/AdityaKotari/twitter-wordcloud): A practise project that displays the most frequent words used by someone on twitter along with sentiment analysis of their last few tweets. 
+ * [Twitter wordcloud](https://github.com/AdityaKotari/twitter-wordcloud): A Next.js project that fetches tweets from any public profile and displays a wordcloud along with some basic sentiment analysis. 
  
 * [ADCLU](https://github.com/AdityaKotari/ADCLU): A Java/Maven Command Line Uitility that can currently do the following:
   * Manage a list of tasks 📝

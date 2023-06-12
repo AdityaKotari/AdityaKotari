@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a Computer Science undergrad at NIT Silchar. Feel free to reach out to me at aditya.kotari@gmail.com or on [LinkedIn](https://www.linkedin.com/in/aditya-kotari-499933195/)!
+I'm a Computer Science undergrad at NIT Silchar. Feel free to reach out to me at aditya.kotari@gmail.com or on [LinkedIn](https://www.linkedin.com/in/aditya-kotari/)!
 ## Here are some of my most interesting projects: 
 
 * [vFit](https://github.com/AdityaKotari/vFit): A web app that combines an AI trainer along with real time video calls, in order to add a fun social game-ification aspect to exercise.

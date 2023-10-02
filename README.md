@@ -1,27 +1,16 @@
-# Hello 👋
-I'm a Computer Science undergrad at NIT Silchar. Feel free to reach out to me at aditya.kotari@gmail.com or on [LinkedIn](https://www.linkedin.com/in/aditya-kotari/)!
-## Here are some of my most interesting projects: 
+# Hi! I'm Aditya Kotari 👋
 
-* [vFit](https://github.com/AdityaKotari/vFit): A web app that combines an AI trainer along with real time video calls, in order to add a fun social game-ification aspect to exercise.
-  * 🏆 Won [First place](https://www.linkedin.com/posts/activity-6809089524434644992-W8Ge) at [HackOn with Amazon](https://hackon-with-amazon.hackerearth.com/) 2021
+🧝 I enjoy coding projects that blend full stack development, machine learning and/or mixed reality to create completely novel solutions 
 
-* [Flush](https://github.com/AdityaKotari/flush): A PWA that can be used to store and locate restroom locations and also provide an interface for property owners to lease out restrooms. Uses Google Maps API. 
-  * 🏆 Won the ["Best Open Innovation Hack"](https://devfolio.co/submissions/flush-cde7) at HackNITR 2.0 
+🌟 I also really enjoyed participating in hackathons during my undergrad. Having a few days or less to (recruit colleagues > brainstorm ideas > design architecture > develop > deploy) was a lot of fun. I'm open to collaborating on cool weekend projects if they're interesting!  
 
-* [Trash Overflow](https://github.com/AdityaKotari/trash-overflow): Another PWA that acts as a platform to provide and request cleaning/sanitation/garbage related services.
-  * 🏆 Won [2nd position](https://www.facebook.com/groups/186753138074295/permalink/4107101392706097/) at CSS Hacks 2021 
-  
- ## More casual stuff: 
- 
- * [Twitter wordcloud](https://github.com/AdityaKotari/twitter-wordcloud): A Next.js project that fetches tweets from any public profile and displays a wordcloud along with some basic sentiment analysis. 
- 
-* [ADCLU](https://github.com/AdityaKotari/ADCLU): A Java/Maven Command Line Uitility that can currently do the following:
-  * Manage a list of tasks 📝
-  * Find the diff for two files 
+🦾 Some of the tech I've worked with are: PyTorch, Tensorflow, MERN, Django, AngularJS, Java/Kotlin for android development, and Three.js  
+
+📜 My CV for convenience: [link](https://drive.google.com/file/d/1LAf4QZ53nr20bA1hSVAx79UbR1tXINRR/view?usp=sharing)
 
 ---
-You can find links to the (hosted)live demos in the respective repos(apart from ADCLU). 
  
+Feel free to reach out to me at aditya.kotari[at]gmail.com!
  
 
 

@@ -1,4 +1,4 @@
-# Hi! I'm Aditya Kotari 👋
+# Hi👋
 
 🧝 I enjoy coding projects that blend full stack development, machine learning and/or mixed reality to create completely novel solutions 
 
